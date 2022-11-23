@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;*.hprof;*.pyc;*.pth" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true" showNewOnTargetInSync="false">
+    <serverData>
+      <paths name="192_representation">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/kimna/PytorchWorkspace/CARLA_Generative/Disentanglement_VAE" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="kimna@141.223.164.192:2917 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/kimna/PytorchWorkspace/CARLA_Generative/Disentanglement_VAE" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

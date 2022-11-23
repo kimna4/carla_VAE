@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a9c75bce-00d1-4e6b-8f86-3be92643bfc0" name="192_benchmark">
+        <fileTransfer rootFolder="/home/kimna/PytorchWorkspace/CARLA_Generative/driving-benchmarks-master" accessType="SFTP" host="141.223.164.192" port="2917" sshConfigId="65635b22-cd3f-4992-ba58-1b0b776272cc" sshConfig="kimna@141.223.164.192:2917 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

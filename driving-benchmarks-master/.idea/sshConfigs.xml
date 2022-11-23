@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="141.223.163.81" id="199abfe2-c1a4-405b-9853-a777bce0f957" port="22" customName="Server81" nameFormat="CUSTOM">
+        <option name="customName" value="Server81" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="141.223.164.192" id="bbe1293b-b928-4236-8f95-3275eee72020" port="22" customName="Server 192" nameFormat="CUSTOM" username="kimna">
+        <option name="customName" value="Server 192" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
